@@ -1,0 +1,6 @@
+This is a full semester project did during my first year in Computer Science BCs at EPFL.
+I did this project with Marc Watine, my trusted collaborator :-)
+The goal was to design the ENTIRE architecture of a GameBoy (first version) step by step (cpu, alu, lcd, etc...)
+The code is fully annots/comments, if you need any precision you can of course ask me.
+
+(If you want play some game you need to have a .gb and launch main with this file in argument)
