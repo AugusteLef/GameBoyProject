@@ -1,3 +1,4 @@
+#GameBoy-Project
 This is a full semester project did during my first year in Computer Science BCs at EPFL.
 I did this project with Marc Watine, my trusted collaborator :-)
 The goal was to design the ENTIRE architecture of a GameBoy (first version) step by step (cpu, alu, lcd, etc...)
