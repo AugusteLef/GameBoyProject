@@ -1,18 +1,14 @@
-# Project Title
+# GameBoy emulator project
 
-One Paragraph of project description goes here
+This is a full semester project supervised by Dr. Michel Schinz during the first year BCs of Computer Science at EPFL. The goal of the project was to create from nothing the Architecture of the first version of the famous GameBoy (Nitendo).
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To start juste download the repository and create a new project using the .zip folder. Then follow the instruction bellow
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+You need Java (1.8 or more) and an IDE (We used Eclipse)
 
 ### Installing
 
@@ -58,31 +54,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Eclipse](http://www.eclipse.org) - IDE
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+* **Lefevre Auguste** - *Initial work* - [AugusteLEF](https://github.com/AugusteLEF)
+* **Watine Marc** - *Initial work* - NO GITHUB at the moment I'm writting this.
