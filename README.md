@@ -59,4 +59,4 @@ Add additional notes about how to deploy this on a live system
 ## Authors
 
 * **Lefevre Auguste** - *Initial work* - [AugusteLEF](https://github.com/AugusteLEF)
-* **Watine Marc** - *Initial work* - NO GITHUB at the moment I'm writting this.
+* **Watine Marc** - *Initial work* - [MarcWatine](https://github.com/marcwatine).
